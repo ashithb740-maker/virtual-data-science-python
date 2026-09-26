@@ -1,0 +1,5 @@
+,TotalSpending,TotalSpending,TotalSpending,NumberOfOrders,NumberOfOrders,NumberOfOrders,AverageOrderValue,AverageOrderValue,AverageOrderValue,TotalQuantity,TotalQuantity,TotalQuantity,NumberOfProducts,NumberOfProducts,NumberOfProducts
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+Cluster,,,,,,,,,,,,,,,
+0,2572,422.6928818040435,346.36,2572,1.6446345256609642,1.0,2572,33.29343586035139,17.2741679779701,2572,244.36547433903576,190.0,2572,25.408631415241057,20.0
+1,1766,4416.785278595697,2006.515,1766,8.098527746319366,5.0,1766,119.48392880749843,18.510458279074427,1766,2561.434881087203,1186.5,1766,114.91166477916195,88.0
